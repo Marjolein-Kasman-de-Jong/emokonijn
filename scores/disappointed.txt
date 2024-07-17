@@ -1,0 +1,3 @@
+disappointed => total occurrences: 5 matches: 0
+disappointed => total occurrences: 4 matches: 0
+disappointed => total occurrences: 2 matches: 0
