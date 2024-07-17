@@ -1,4 +1,4 @@
-![Rabbits](https://github.com/Marjolein-Kasman-de-Jong/emokonijn/blob/main/rabbits.jpg)
+![Rabbits](https://github.com/Marjolein-Kasman-de-Jong/emokonijn/blob/main/rabbits.png)
 
 # Emokonijn
 
