@@ -1,3 +1,5 @@
+![Rabbits](https://github.com/Marjolein-Kasman-de-Jong/emokonijn/blob/main/rabbits.jpg)
+
 # Emokonijn
 
 Higher professional education program PHP &amp; MySQL assignment.
